@@ -41,6 +41,11 @@ bash
 python3 suricata_gui.py
 
 
+## Screenshot
+
+![Suricata IDS Dashboard](suricata-ids-dashboard.png)
+
+
 ## Project Structure
 
 text
